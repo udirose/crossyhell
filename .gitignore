@@ -57,7 +57,8 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
+builds
+/builds
 CrossyHell/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
 CrossyHell/Assets/EditorThemes
 CrossyHell/Assets/EditorThemes.meta
