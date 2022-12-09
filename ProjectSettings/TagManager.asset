@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - Bullet
+  - Background
+  - Road
+  - LeftBound
+  - RightBound
+  - PowerUp
+  - BotBound
+  - InvinciblePlayer
+  - BossBullet
+  - TopBound
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Road
+  - Foreground
+  - Player
+  - Enemy
+  - Bullet
+  - PowerUp
+  - InvinciblePlayer
+  - Obstacle
+  - BossBullet
+  - TopBound
+  - BossVan
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1177229895
+    locked: 0
+  - name: Road
+    uniqueID: 1768916669
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 436155031
+    locked: 0
+  - name: 
+    uniqueID: 2044457135
+    locked: 0
+  - name: 
+    uniqueID: 2886104677
+    locked: 0
